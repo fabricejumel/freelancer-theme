@@ -11,3 +11,10 @@ description: Use this area of the page to describe your project. The icon above 
 
 
 ---
+
+Test de Contenu
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
