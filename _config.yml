@@ -5,6 +5,8 @@ description: "Write an awesome description for your new site here. You can edit 
 twitter_username: jekyllrb
 github_username:  jekyll
 baseurl: "/freelancer-theme"
+# FJ Test to show directory 
+show_dir_listing: true
 
 # Build settings
 markdown: kramdown
