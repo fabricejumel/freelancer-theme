@@ -8,6 +8,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: This is a test
+permalink: /test/
 
 ---
 Content Here ?
